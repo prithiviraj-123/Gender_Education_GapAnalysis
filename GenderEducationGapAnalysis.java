@@ -1,7 +1,4 @@
-// ---------------------------------------------
-// Mini Project: Gender Education Gap Analysis
-// SDG Goal 10: Reduced Inequalities
-// ---------------------------------------------
+//GenderEducation Gap ANalysis//
 
 import java.util.Scanner;
 
@@ -73,4 +70,5 @@ public class GenderEducationGapSimple {
         }
         sc.close();
     }
+
 }
